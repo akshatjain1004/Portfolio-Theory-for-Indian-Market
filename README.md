@@ -1,4 +1,6 @@
 # Portfolio-Theory-for-Indian-Market
+Colab file: https://colab.research.google.com/drive/1h9r61F4iuPBDXvEMmfcqP2dGEoxOZNVd?usp=sharing 
+
 Analysing Markowitz theory, Capital Asset Pricing Model (CAPM) and Security Market Line for 10 large CAP NSE stocks
 ![image](https://user-images.githubusercontent.com/86458423/222504968-6938b398-fef1-4324-b663-0efa13df8b88.png)
 
